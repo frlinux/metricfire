@@ -1,0 +1,10 @@
+Wed Dec 14 17:00:05 CET 2011
+
+This script is a proof of concept to send metrics to metricfire. 
+I have decided to write and publish this to teach myself some 
+Python and make something useful with it. 
+
+If you have suggestions on how to improve things or even a patch, 
+additions are welcome.
+
+FRLinux
